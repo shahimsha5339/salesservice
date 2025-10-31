@@ -1,3 +1,4 @@
 redmi
 iphone
 samsung
+nokia
